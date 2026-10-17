@@ -1,2 +1,3 @@
-# arosDelphi
-First Project in Delphi
+# arosTroubleshooting - "Russian Script"
+
+Script para um troubleshooting
