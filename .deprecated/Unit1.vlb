@@ -1,0 +1,17 @@
+﻿[selectPhrase]
+Coordinates=10,10,101,168
+Visible=True
+ExplicitSubNodes=Hint;ShowHint
+
+[]
+Coordinates=130,1,79,58
+
+[Button1]
+Coordinates=130,1,59,58
+
+[Label1]
+Coordinates=130,78,53,58
+
+[Label2]
+Coordinates=111,153,53,58
+
