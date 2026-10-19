@@ -22,3 +22,28 @@ dism /online /cleanup-image /restorehealth
 echo.
 echo Tarefa concluida.
 pause
+
+::@title Atualizando politicas...
+::cls
+::gpupdate /force
+
+
+@echo.
+cls
+@title Limpeza - Cleaning
+@echo ===============================================================
+@echo Limpando arquivos temporarios...
+@echo ===============================================================
+del /q /f /s %temp%\*
+cls
+@echo ==================
+@echo Next
+@echo ==================
+pause
+
+@echo.
+cls
+@echo ===============================================================
+@echo Os comandos seguintes precisam da ajuda do analista de suporte!
+@echo ===============================================================
+pause
